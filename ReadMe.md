@@ -3,7 +3,7 @@ Ich bin Moritz, ein 19 Jähriger Typ aus dem Internet :)
 
 ## 💻 Tech Stack:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,js,php,linux,nodejs" />
+  <img src="https://skillicons.dev/icons?i=git,js,php,linux,nodejs,java" />
 </p>
 
 ## Tools
