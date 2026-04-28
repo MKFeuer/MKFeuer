@@ -14,7 +14,7 @@ Ich bin Moritz, ein 19 Jähriger Typ aus dem Internet :)
 ---
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/c3ny3pcFYf) [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=flat&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D35120%26minutes%3D10080)](https://codetime.dev)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/818751794476744724) [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=flat&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D35120%26minutes%3D10080)](https://codetime.dev)
 
 <p align="center">
   <img src="https://lanyard.cnrad.dev/api/818751794476744724?hideBadges=false)](https://discord.com/users/818751794476744724" />
